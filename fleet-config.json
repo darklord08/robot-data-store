@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-10T14:00:00Z",
+  "defaults": {
+    "gatewayUrlEnc": "O21NmLzbYRQsdMMi5j+yf53GumnMu8tNnJTYum6wvtlt6POiNtN/huX0utFLjGR9C/XGdltWqT/bqpOMPw8pW7HlhVyfxJKSEtMfEZ69ZGzIjg==",
+    "deviceLicenseEnc": "voeu6XlG9/4uDy5XmhNe4GDIrsQUuY5oRotyTWfFKhxX+D2dVly/oygEr073fCvCryZAikp77s+9F712QH7BYfKmcq0XNMdoc7c=",
+    "deviceNameEnc": "eNMf+odtpZoZXQHF3ZTZld7+8O0ElhITGif6EdGWkxeFKXIeIAwx5EeicR66WlCrOeRx0g=="
+  },
+  "devices": {
+    "android-TABLET_SERIAL": {
+      "gatewayUrlEnc": "",
+      "deviceLicenseEnc": "",
+      "deviceNameEnc": ""
+    }
+  }
+}

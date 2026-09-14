@@ -1,7 +1,7 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "apkUrl": "...",
+  "apkUrl": "https://github.com/darklord08/robot-data-store/releases/download/releases/app-debug.apk",
   "sha256": "",
   "releaseNotes": "Güncelleme sistemi eklendi.\n- Deneme mesaj."
 }
